@@ -1,0 +1,15 @@
+node_modules
+.next
+.open-next
+.git
+.github
+.env
+.env.*
+!.env.example
+*.log
+npm-debug.log*
+.DS_Store
+public/uploads/*
+!public/uploads/.gitkeep
+Dockerfile
+.dockerignore
